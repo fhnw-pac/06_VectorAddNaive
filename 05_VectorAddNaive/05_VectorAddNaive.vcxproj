@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2CF64FA6-CA9D-4ECD-B8CB-24270C371763}</ProjectGuid>
+    <ProjectGuid>{879270A2-6124-4A7E-8EFF-CB262C932121}</ProjectGuid>
     <RootNamespace>_05_VectorAddNaive</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
